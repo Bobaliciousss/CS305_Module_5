@@ -7,4 +7,4 @@ The bad joke detector is an open-source algorithm to detect bad jokes. The algor
 ## License
 
 
-The license used is the 
+The license used is the **GNU Public License v3.0**.
